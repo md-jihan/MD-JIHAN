@@ -1,0 +1,7 @@
+.carousel-item img {
+    width: 100%;
+    height: 400px;
+}
+.rotated {
+    transform: rotate(-90deg); /* Equal to rotateZ(45deg) */
+}
